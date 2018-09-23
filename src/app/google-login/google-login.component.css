@@ -1,0 +1,24 @@
+.custom_cantiner{
+    float: left;
+    width: 37%;
+    text-align: center;
+    margin: 16px;
+    font-size: 16px;
+    font-weight: bold;
+    color: #9d9d9d;
+}
+.google_btn{
+    border: none;
+    background: #e81313a3;
+    padding: 7px;
+    color: white;
+    text-transform: capitalize;
+    letter-spacing: 2px;
+    margin-bottom: 49px;
+    /* max-width: 235px; */
+    padding-right: 50px;
+    padding-left: 46px;
+}
+.google_cantainer{
+    padding: 30px;
+}
